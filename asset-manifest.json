@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bazarhome/static/css/main.954ae1d8.css",
+    "main.js": "/Bazarhome/static/js/main.29931b7b.js",
+    "index.html": "/Bazarhome/index.html",
+    "main.954ae1d8.css.map": "/Bazarhome/static/css/main.954ae1d8.css.map",
+    "main.29931b7b.js.map": "/Bazarhome/static/js/main.29931b7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954ae1d8.css",
+    "static/js/main.29931b7b.js"
+  ]
+}
